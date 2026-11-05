@@ -1,0 +1,6 @@
+{
+  "name": "B13 BYMOBILABS",
+  "description": "High-contrast tactical Bluetooth mesh chat app for secure offline P2P communication, squads/groups, push notifications, voice notes, and file sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
